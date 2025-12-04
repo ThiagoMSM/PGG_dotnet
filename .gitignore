@@ -1,0 +1,78 @@
+## Ignore Visual Studio temporary files, build results, and cached files
+.vs/
+*.user
+*.suo
+*.userosscache
+*.sln.docstates
+
+## Build results
+bin/
+obj/
+[Bb]uild/
+[Ll]og/
+
+## .NET Core
+*.deps.json
+*.runtimeconfig.json
+*.dll
+*.exe
+*.pdb
+
+## NuGet packages
+*.nupkg
+packages/
+*.snupkg
+project.lock.json
+
+## Visual Studio cache/options
+.vscode/
+*.psess
+*.vsp
+*.vspx
+
+## Test results
+TestResults/
+*.trx
+*.coverage
+*.coveragexml
+
+## Publish output
+publish/
+out/
+
+## Azure build
+csx/
+*.build.csdef
+
+## Entity Framework
+*_i.c
+*_p.c
+*.jfm
+
+## Auto-generated files
+Generated\ Files/
+
+## Rider / JetBrains IDEs
+.idea/
+*.sln.iml
+
+## OS-specific
+# Windows
+Thumbs.db
+ehthumbs.db
+Desktop.ini
+
+# Mac
+.DS_Store
+.AppleDouble
+.LSOverride
+
+# Linux
+*~
+
+## Logs
+*.log
+
+## Other
+*.tmp
+*.temp
