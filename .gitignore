@@ -76,3 +76,7 @@ Desktop.ini
 ## Other
 *.tmp
 *.temp
+
+appsettings.json
+appsettings.Development.json
+appsettings.Production.json
